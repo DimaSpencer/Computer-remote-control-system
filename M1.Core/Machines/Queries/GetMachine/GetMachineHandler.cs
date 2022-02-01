@@ -6,7 +6,6 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 
 namespace M1.Application.Machines.Queries.GetMachine;
-
 public class GetMachineHandler : IRequestHandler<GetMachineQuery, MachineViewModel>
 {
     private readonly IAppDbContext _dbContext;

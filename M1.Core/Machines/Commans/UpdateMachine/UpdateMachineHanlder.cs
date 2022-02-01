@@ -3,14 +3,10 @@ using M1.Application.Interfaces.Db;
 using M1.Domain.Entityes;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace M1.Application.Machines.Commans.UpdateMachine
 {
+
     public class UpdateMachineHanlder : IRequestHandler<UpdateMachineCommand>
     {
         private readonly IAppDbContext _dbContext;

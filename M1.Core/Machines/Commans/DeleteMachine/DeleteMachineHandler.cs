@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace M1.Application.Machines.Commans.DeleteMachine
 {
+
     public class DeleteMachineHandler : IRequestHandler<DeleteMachineCommand>
     {
         private readonly IAppDbContext _dbContext;
