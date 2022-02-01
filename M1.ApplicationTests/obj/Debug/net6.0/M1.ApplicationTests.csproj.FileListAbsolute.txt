@@ -1,0 +1,6 @@
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\obj\Debug\net6.0\M1.ApplicationTests.csproj.AssemblyReference.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\obj\Debug\net6.0\M1.ApplicationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\obj\Debug\net6.0\M1.ApplicationTests.AssemblyInfoInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\obj\Debug\net6.0\M1.ApplicationTests.AssemblyInfo.cs
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.ApplicationTests\obj\Debug\net6.0\M1.ApplicationTests.csproj.CoreCompileInputs.cache

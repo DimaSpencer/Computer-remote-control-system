@@ -1,0 +1,7 @@
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.csproj.AssemblyReference.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.AssemblyInfoInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.AssemblyInfo.cs
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.WebAPI\obj\Debug\net6.0\M1.WebAPI.MvcApplicationPartsAssemblyInfo.cache

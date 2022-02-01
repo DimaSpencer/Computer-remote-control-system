@@ -1,0 +1,5 @@
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.csproj.AssemblyReference.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.AssemblyInfoInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.AssemblyInfo.cs
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.csproj.CoreCompileInputs.cache

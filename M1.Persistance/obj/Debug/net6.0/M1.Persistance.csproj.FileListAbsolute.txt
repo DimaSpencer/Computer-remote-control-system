@@ -1,0 +1,5 @@
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.csproj.AssemblyReference.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.AssemblyInfoInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.AssemblyInfo.cs
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.csproj.CoreCompileInputs.cache
