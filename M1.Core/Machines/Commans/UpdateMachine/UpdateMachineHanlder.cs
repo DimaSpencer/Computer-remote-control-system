@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace M1.Application.Machines.Commans.UpdateMachine
 {
-
     public class UpdateMachineHanlder : IRequestHandler<UpdateMachineCommand>
     {
         private readonly IAppDbContext _dbContext;

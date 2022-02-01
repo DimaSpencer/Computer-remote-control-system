@@ -1,5 +1,6 @@
 ﻿using M1.Application.Machines.Commans.AddMachine;
 using M1.Application.Machines.Commans.DeleteMachine;
+using M1.Application.Machines.Queries.GetAllMachiness;
 using M1.Application.Machines.Queries.GetMachine;
 using Microsoft.AspNetCore.Mvc;
 

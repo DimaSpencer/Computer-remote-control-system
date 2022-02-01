@@ -8,7 +8,8 @@ namespace M1.Application.Machines.Commans.UpdateMachine
         {
             RuleFor(model => model.Id)
                 .NotEmpty()
-                .NotNull();
+                .NotNull()
+                .NotEqual(Guid.Empty);
             RuleFor(model => model.Name)
                 .NotEmpty()
                 .NotNull();

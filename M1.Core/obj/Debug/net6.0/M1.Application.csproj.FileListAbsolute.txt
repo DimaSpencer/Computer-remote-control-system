@@ -3,3 +3,13 @@ C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.AssemblyInfoInputs.cache
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.AssemblyInfo.cs
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.csproj.CoreCompileInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\M1.Application.deps.json
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\M1.Application.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\ref\M1.Application.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\M1.Application.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\M1.Domain.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\bin\Debug\net6.0\M1.Domain.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.csproj.CopyComplete
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\ref\M1.Application.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Core\obj\Debug\net6.0\M1.Application.pdb

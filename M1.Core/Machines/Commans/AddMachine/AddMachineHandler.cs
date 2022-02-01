@@ -4,7 +4,6 @@ using MediatR;
 
 namespace M1.Application.Machines.Commans.AddMachine
 {
-
     public class AddMachineHandler : IRequestHandler<AddMachineCommand>
     {
         private readonly IAppDbContext _dbContext;

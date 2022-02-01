@@ -8,7 +8,8 @@ namespace M1.Application.Machines.Commans.DeleteMachine
         {
             RuleFor(model => model.Id)
                 .NotEmpty()
-                .NotNull();
+                .NotNull()
+                .NotEqual(Guid.Empty);
         }
     }
 }

@@ -1,7 +1,8 @@
 using M1.Application.Common.Mapping;
+using M1.Application.Extensions;
 using M1.Application.Interfaces.Db;
-using M1.Application.Interfaces.Extensions;
 using M1.Persistance;
+using M1.WebAPI.Middlewares;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,7 +19,7 @@ builder.Services.AddAutoMapper(configuration =>
 });
 
 builder.Services.AddM1Application();
-builder.Services.AddPersistence(builder.Configuration);
+builder.Services.AddPersistence(builder.Configuration["ConnectionStrings:Database"]);
 
 var app = builder.Build();
 
@@ -28,10 +29,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseRequestExceptionHandler();
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
 
 app.Run();

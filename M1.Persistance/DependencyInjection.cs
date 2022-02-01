@@ -7,9 +7,8 @@ namespace M1.Persistance;
 
 public static class DependencyInjection
 {
-    public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
+    public static IServiceCollection AddPersistence(this IServiceCollection services, string connectionString)
     {
-        string connectionString = configuration.GetConnectionString("ConnectionStrings:Database");
         services.AddDbContext<AppDbContext>(o => o.UseSqlite(connectionString));
 
         services.AddScoped<IAppDbContext, AppDbContext>();

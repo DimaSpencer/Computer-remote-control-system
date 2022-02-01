@@ -1,5 +1,5 @@
-﻿using M1.Application.Common.Mapping;
-using M1.Domain.Entityes;
+﻿using M1.Domain.Entityes;
+using M1.Domain.Interfaces;
 
 namespace M1.Application.Machines.Queries.GetMachine;
 

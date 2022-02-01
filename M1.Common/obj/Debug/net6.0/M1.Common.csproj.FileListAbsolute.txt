@@ -2,7 +2,6 @@ C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\bin\Debug\net6.0\M
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\bin\Debug\net6.0\M1.Common.dll
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\bin\Debug\net6.0\ref\M1.Common.dll
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\bin\Debug\net6.0\M1.Common.pdb
-C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\obj\Debug\net6.0\M1.Common.csproj.AssemblyReference.cache
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\obj\Debug\net6.0\M1.Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\obj\Debug\net6.0\M1.Common.AssemblyInfoInputs.cache
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Common\obj\Debug\net6.0\M1.Common.AssemblyInfo.cs

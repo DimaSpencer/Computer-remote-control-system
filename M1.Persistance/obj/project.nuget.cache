@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7wwDavu5fdts3kj3wKWBRR3MbWiCvH7flwJnkzb20UlKSujgyrrdnAeU2VC07ti5HtcS6SlARVj3npMLrnJo4w==",
+  "dgSpecHash": "JVku06bPBElQDi8l1IXC9XtjVWirIdLNoUicZ2/PAjzdHzmHpWJG/D3xc7hPECoS+pmb2CfcR8FIB8HqhuxMmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\My MSI\\Desktop\\source\\repos\\Infrastructure\\M1.Persistance\\M1.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\My MSI\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\My MSI\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\My MSI\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\My MSI\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\My MSI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\My MSI\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\My MSI\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

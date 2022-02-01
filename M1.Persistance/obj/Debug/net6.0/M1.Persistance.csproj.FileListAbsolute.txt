@@ -3,3 +3,17 @@ C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.AssemblyInfoInputs.cache
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.AssemblyInfo.cs
 C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Persistance.deps.json
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Persistance.runtimeconfig.json
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Persistance.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\ref\M1.Persistance.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Persistance.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Application.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Domain.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Application.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\bin\Debug\net6.0\M1.Domain.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.csproj.CopyComplete
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\ref\M1.Persistance.dll
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.pdb
+C:\Users\My MSI\Desktop\source\repos\Infrastructure\M1.Persistance\obj\Debug\net6.0\M1.Persistance.genruntimeconfig.cache
